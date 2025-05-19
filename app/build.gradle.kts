@@ -67,10 +67,14 @@ dependencies {
     implementation(libs.coil)
     implementation(libs.coil.compose)
 
+    // serialization
     implementation(libs.serialization)
 
     // splash screen
     implementation(libs.androidx.core.splashscreen)
+
+    // extended icons
+    implementation(libs.androidx.material.icons.extended)
 
     // retrofit & okhttp
     implementation(libs.retrofit.core)

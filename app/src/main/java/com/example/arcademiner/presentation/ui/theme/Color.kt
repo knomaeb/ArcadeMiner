@@ -1,4 +1,4 @@
-package com.example.arcademiner.ui.theme
+package com.example.arcademiner.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
